@@ -46,6 +46,14 @@ Me chamo Paulo Henrique, tenho 27 anos e sou formado em administração de empre
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+<img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
+    width="30px"
+    style="padding-right: 10px;"        
+    src="https://img.icons8.com/color/48/power-bi.png"
+/>
 
 <br/>
 <br/>
