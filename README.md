@@ -11,7 +11,8 @@
   <a href="mailto:paul.cavalcantesilva@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-Me chamo Paulo Henrique, tenho 27 anos e sou formado em administração de empresas. Sempre fui uma pessoa apaixonada por tecnologia e sempre tive interesse em programação. Eu trabalho como analista de RH, mas estou estudando para migrar para área de dados. Embora eu trabalhe com análise de indicadores de RH, criação de dashboards e análise de dados, quero me dedicar 100% a área e buscar novos desafios. Atualmente, meu foco nos estudos está sendo Python, SQL e Power BI, futuramente pretendo explorar outras tecnologias e ferramentas. Este github será meu portfolio onde mostrarei minha evolução através de projetos.
+## 🚀 About Me 
+My name is Paulo Henrique, I'm 27 years old and I have a degree in business administration. I've always been passionate about technology and interested in programming. I work as an HR analyst, but I'm studying to transition to the data field. Although I work with HR indicator analysis, dashboard creation, and data analysis, I want to dedicate myself 100% to this area and seek new challenges. Currently, my studies focus on Python, SQL, and Power BI; in the future, I intend to explore other technologies and tools. This GitHub will be my portfolio where I will showcase my progress through projects.
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -64,24 +65,4 @@ Me chamo Paulo Henrique, tenho 27 anos e sou formado em administração de empre
     src="https://img.icons8.com/color/48/power-bi.png"
 />
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paulohenriquec&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
