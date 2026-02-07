@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-henriquesilva/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:paul.cavalcantesilva@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
+
 Me chamo Paulo Henrique, tenho 27 anos e sou formado em administração de empresas. Sempre fui uma pessoa apaixonada por tecnologia e sempre tive interesse em programação. Eu trabalho como analista de RH, mas estou estudando para migrar para área de dados. Embora eu trabalhe com análise de indicadores de RH, criação de dashboards e análise de dados, quero me dedicar 100% a área e buscar novos desafios. Atualmente, meu foco nos estudos está sendo Python, SQL e Power BI, futuramente pretendo explorar outras tecnologias e ferramentas. Este github será meu portfolio onde mostrarei minha evolução através de projetos.
 
 ---
