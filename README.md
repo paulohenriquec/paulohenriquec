@@ -1,6 +1,10 @@
 # 👨‍💻 Paulo
 
-**`Analista de dados`**
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+</div>
 
 Me chamo Paulo Henrique, tenho 27 anos e sou formado em administração de empresas. Sempre fui uma pessoa apaixonada por tecnologia e sempre tive interesse em programação. Eu trabalho como analista de RH, mas estou estudando para migrar para área de dados. Embora eu trabalhe com análise de indicadores de RH, criação de dashboards e análise de dados, quero me dedicar 100% a área e buscar novos desafios. Atualmente, meu foco nos estudos está sendo Python, SQL e Power BI, futuramente pretendo explorar outras tecnologias e ferramentas. Este github será meu portfolio onde mostrarei minha evolução através de projetos.
 
